@@ -1,3 +1,4 @@
+30/36/2024
 **JUEGO DE PIEDRA, PAPEL O TIJERA**
 
 Este programa implementa el clásico juego de Piedra, Papel o Tijera entre un jugador y la computadora.
